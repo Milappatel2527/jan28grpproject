@@ -16,8 +16,6 @@ public class Jan28homework {
      */
     public static void main(String[] args) {
         
-        System.out.println("good evening");
-        // TODO code application logic here
+        System.out.println("Hi ... this is Kirti .... good evening");
     }
-    
-}
+}    
