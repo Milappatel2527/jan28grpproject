@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package jan28homework;
+package jan28kirtihomework1;
 
 /**
  *
  * @author deepa
  */
-public class Jan28homework {
+public class Jan28Kirtihomework1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
-        System.out.println("Hi ... this is Kirti .... good evening");
+          // TODO code application logic here
+          System.out.println("Hello Everyone");
     }
-}    
+    
+}
