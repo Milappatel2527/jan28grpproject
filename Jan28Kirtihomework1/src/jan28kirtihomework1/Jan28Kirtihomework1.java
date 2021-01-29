@@ -16,7 +16,7 @@ public class Jan28Kirtihomework1 {
      */
     public static void main(String[] args) {
           // TODO code application logic here
-          System.out.println("Hello Everyone");
+          System.out.println("Hello Everyone ");
     }
     
 }
